@@ -6,7 +6,7 @@ description: This section describes how the Green New Deal report is prepared an
 
 ## Audience
 
-The report is written for an open-minded compassionate decision maker. This person is not selfish nor do they have any conflict of interest.  They genuinely intend to do what is right for society.  They are knowledgeable, reasonable, open-minded willing to change their current perception and position on policy and strategy, but is cautious before committing resources to a plan.  They are skeptical and want to see that the plan is supported by evidence, has the potential to meet it's intended goals and is politically feasible - can be sold to the general public and key stakeholders.
+The report is written for an open-minded compassionate decision maker. This person is not primarily selfish in their intentions nor do they have any conflict of interest.  They genuinely intend to do what is right for society.  They are knowledgeable, reasonable, open-minded willing to change their current perception and position on policy and strategy, but is cautious before committing resources to a plan.  They are skeptical and want to see that the plan is supported by evidence, has the potential to meet it's intended goals and is politically feasible - can be sold to the general public and key stakeholders.
 
 ## Quality objectives
 
@@ -38,5 +38,5 @@ The second group are the **writers**.  The writers perform various functions to 
 
 The third group are **partners** that either use the material or belong to one of the stakeholders groups affected by the policy and whose inputs are sought for incorporation into the policy report.  Partners are have a connection to and are actively engaged with the building of the report, which distinguishes them from the generic stakeholder groups that they represent.
 
-The supporting materials and draft content of the sections during the review phase before publication is maintained in a team drive accessible to the writers. Check out the [project website](https://aseangreennewdeal.wixsite.com/home/action) for more information about how to get involved. 
+The supporting materials and draft content of the sections during the review phase before publication is maintained in a team drive accessible to the writers.  Once it is ready it is published to this [Gitbook](https://www.gitbook.com/).  All of the version changes are synced to a [Github repository](https://github.com/taylorhickem/greennewdealbook) and both the Gitbook and the repository are publicly accessible. Check out the [project website](https://aseangreennewdeal.wixsite.com/home/action) for more information about how to get involved. 
 
